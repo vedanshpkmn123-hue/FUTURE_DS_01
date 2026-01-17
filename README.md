@@ -31,16 +31,20 @@ Dashboard Analysis
 From the dashboard we can answer some crucial questions given to us as a part of the task:
 
 1.Which products generate the most revenue?
+
   "Fellowes PB500 Electric Punch Plastic Comb performs exceptionally well such that no product reached its level much less exceed with the  
    sole exception of Canon imageCLASS 2200 of course"
 
 2.How do sales change over time?
+
   "As observed over an year the sales are highest in early to mid November and lowest in mid February"
 
 3.Which categories or regions are most profitable?
+
   "West is providing an exceptionally high profit margin followed by East"
 
 4.Where should the business focus to grow faster?
+
   "In terms of field technology should be the right way to go considering the success and sales of these items but if the context changes        
    to location West and East should be our way to go"
 
